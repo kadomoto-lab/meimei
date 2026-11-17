@@ -1,0 +1,4 @@
+v80 self-test: axi load / run / uart
+acc=79d0be5ae1616157
+scratch=00000000123477ef
+PASS
