@@ -1,0 +1,10 @@
+# generated: merged liberty, sv2v output, Yosys checkpoints / netlists, logs and reports
+*.lib
+*.il
+*.v
+!fo4.v
+*.log
+*.time
+*.rpt
+*.txt
+syn_*.ys

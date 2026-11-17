@@ -1,0 +1,8 @@
+strash
+&get -n
+&nf -p -D 200
+&put
+buffer -p
+upsize -D 200
+dnsize -D 200
+stime -p
